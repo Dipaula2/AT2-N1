@@ -17,3 +17,4 @@ Este projeto simula um sistema bancário em Java utilizando threads para represe
 ## Tecnologias Utilizadas
 - **Java 17**
 - **Multithreading**: Uso de threads para simular operações concorrentes.
+
